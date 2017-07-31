@@ -1,6 +1,6 @@
 ## Create an object that stores a Matrix and its inverse
 
-## makeCacheMatrix receives a X matrix parameter and returns a list of setter and getter
+## makeCacheMatrix receives a X matrix parameter and returns a list of setters and getters
 ## functions
 
 makeCacheMatrix <- function(x = matrix()) {
